@@ -1,0 +1,2216 @@
+[
+    {
+        "name": "Sachin",
+        "age": 22,
+        "address": {
+            "country": "India",
+            "city": "Pune",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "9876543210"
+        },
+        "skills": [
+            "Java",
+            "Python",
+            "C++"
+        ]
+    },
+    {
+        "name": "Priya",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Bangalore",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "8765432109"
+        },
+        "skills": [
+            "JavaScript",
+            "React",
+            "Node.js"
+        ]
+    },
+    {
+        "name": "Rahul",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Mumbai",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "7654321098"
+        },
+        "skills": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "name": "Anjali",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Delhi",
+            "state": "Delhi"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "6543210987"
+        },
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Vikram",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Chennai",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "5432109876"
+        },
+        "skills": [
+            "C#",
+            ".NET",
+            "Azure"
+        ]
+    },
+    {
+        "name": "Sneha",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Hyderabad",
+            "state": "Telangana"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "4321098765"
+        },
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "TensorFlow"
+        ]
+    },
+    {
+        "name": "Arjun",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "3210987654"
+        },
+        "skills": [
+            "JavaScript",
+            "Vue.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "name": "Kavya",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Ahmedabad",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "2109876543"
+        },
+        "skills": [
+            "Java",
+            "Microservices",
+            "Docker"
+        ]
+    },
+    {
+        "name": "Rohit",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Jaipur",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "1098765432"
+        },
+        "skills": [
+            "Python",
+            "Flask",
+            "Redis"
+        ]
+    },
+    {
+        "name": "Meera",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Kochi",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "9987654321"
+        },
+        "skills": [
+            "PHP",
+            "Laravel",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Karthik",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "1234509876",
+            "mobile": "8876543210"
+        },
+        "skills": [
+            "C++",
+            "Qt",
+            "Linux"
+        ]
+    },
+    {
+        "name": "Pooja",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Indore",
+            "state": "Madhya Pradesh"
+        },
+        "phone": {
+            "telephone": "2345610987",
+            "mobile": "7765432109"
+        },
+        "skills": [
+            "JavaScript",
+            "Angular",
+            "TypeScript"
+        ]
+    },
+    {
+        "name": "Aditya",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "3456721098",
+            "mobile": "6654321098"
+        },
+        "skills": [
+            "Python",
+            "Data Science",
+            "Pandas"
+        ]
+    },
+    {
+        "name": "Ritu",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Chandigarh",
+            "state": "Punjab"
+        },
+        "phone": {
+            "telephone": "4567832109",
+            "mobile": "5543210987"
+        },
+        "skills": [
+            "Java",
+            "Hadoop",
+            "Spark"
+        ]
+    },
+    {
+        "name": "Suresh",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Nagpur",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "5678943210",
+            "mobile": "4432109876"
+        },
+        "skills": [
+            "Go",
+            "Kubernetes",
+            "AWS"
+        ]
+    },
+    {
+        "name": "Divya",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Bhubaneswar",
+            "state": "Odisha"
+        },
+        "phone": {
+            "telephone": "6789054321",
+            "mobile": "3321098765"
+        },
+        "skills": [
+            "Python",
+            "FastAPI",
+            "SQLAlchemy"
+        ]
+    },
+    {
+        "name": "Manish",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Surat",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "7890165432",
+            "mobile": "2210987654"
+        },
+        "skills": [
+            "Ruby",
+            "Rails",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "name": "Nisha",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Visakhapatnam",
+            "state": "Andhra Pradesh"
+        },
+        "phone": {
+            "telephone": "8901276543",
+            "mobile": "1109876543"
+        },
+        "skills": [
+            "JavaScript",
+            "Express",
+            "Socket.io"
+        ]
+    },
+    {
+        "name": "Deepak",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Thiruvananthapuram",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "9012387654",
+            "mobile": "9998765432"
+        },
+        "skills": [
+            "Java",
+            "Kafka",
+            "Elasticsearch"
+        ]
+    },
+    {
+        "name": "Shreya",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Guwahati",
+            "state": "Assam"
+        },
+        "phone": {
+            "telephone": "0123498765",
+            "mobile": "8887654321"
+        },
+        "skills": [
+            "Python",
+            "Selenium",
+            "Pytest"
+        ]
+    },
+    {
+        "name": "Amit",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Patna",
+            "state": "Bihar"
+        },
+        "phone": {
+            "telephone": "1234567098",
+            "mobile": "7776543210"
+        },
+        "skills": [
+            "C++",
+            "OpenCV",
+            "CUDA"
+        ]
+    },
+    {
+        "name": "Asha",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Dehradun",
+            "state": "Uttarakhand"
+        },
+        "phone": {
+            "telephone": "2345678109",
+            "mobile": "6665432109"
+        },
+        "skills": [
+            "JavaScript",
+            "React Native",
+            "Firebase"
+        ]
+    },
+    {
+        "name": "Rajesh",
+        "age": 33,
+        "address": {
+            "country": "India",
+            "city": "Mysore",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "3456789210",
+            "mobile": "5554321098"
+        },
+        "skills": [
+            "Java",
+            "Jenkins",
+            "Maven"
+        ]
+    },
+    {
+        "name": "Lakshmi",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Vadodara",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "4567890321",
+            "mobile": "4443210987"
+        },
+        "skills": [
+            "Python",
+            "Blockchain",
+            "Solidity"
+        ]
+    },
+    {
+        "name": "Harish",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Raipur",
+            "state": "Chhattisgarh"
+        },
+        "phone": {
+            "telephone": "5678901432",
+            "mobile": "3332109876"
+        },
+        "skills": [
+            "C#",
+            "Unity",
+            "Blender"
+        ]
+    },
+    {
+        "name": "Swati",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Goa",
+            "state": "Goa"
+        },
+        "phone": {
+            "telephone": "6789012543",
+            "mobile": "2221098765"
+        },
+        "skills": [
+            "Python",
+            "Computer Vision",
+            "OpenCV"
+        ]
+    },
+    {
+        "name": "Nikhil",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Jalandhar",
+            "state": "Punjab"
+        },
+        "phone": {
+            "telephone": "7890123654",
+            "mobile": "1110987654"
+        },
+        "skills": [
+            "Java",
+            "Android",
+            "Kotlin"
+        ]
+    },
+    {
+        "name": "Rekha",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Ranchi",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "8901234765",
+            "mobile": "9009876543"
+        },
+        "skills": [
+            "JavaScript",
+            "Svelte",
+            "GraphQL"
+        ]
+    },
+    {
+        "name": "Vishal",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Aurangabad",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "9012345876",
+            "mobile": "8998765432"
+        },
+        "skills": [
+            "Python",
+            "Scrapy",
+            "Beautiful Soup"
+        ]
+    },
+    {
+        "name": "Priyanka",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Shimla",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "0123456987",
+            "mobile": "7887654321"
+        },
+        "skills": [
+            "PHP",
+            "Symfony",
+            "Doctrine"
+        ]
+    },
+    {
+        "name": "Gaurav",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Mangalore",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "6776543210"
+        },
+        "skills": [
+            "C++",
+            "Embedded Systems",
+            "Arduino"
+        ]
+    },
+    {
+        "name": "Sunita",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Kanpur",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "5665432109"
+        },
+        "skills": [
+            "Java",
+            "Struts",
+            "Hibernate"
+        ]
+    },
+    {
+        "name": "Ankit",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Nashik",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "4554321098"
+        },
+        "skills": [
+            "Python",
+            "Celery",
+            "RabbitMQ"
+        ]
+    },
+    {
+        "name": "Kavita",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Jodhpur",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "3443210987"
+        },
+        "skills": [
+            "JavaScript",
+            "Next.js",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "name": "Ravi",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Salem",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "2332109876"
+        },
+        "skills": [
+            "Go",
+            "gRPC",
+            "Protocol Buffers"
+        ]
+    },
+    {
+        "name": "Madhuri",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Agra",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "1221098765"
+        },
+        "skills": [
+            "Python",
+            "Natural Language Processing",
+            "spaCy"
+        ]
+    },
+    {
+        "name": "Sanjay",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Hubli",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "9110987654"
+        },
+        "skills": [
+            "Java",
+            "JPA",
+            "Spring Security"
+        ]
+    },
+    {
+        "name": "Geeta",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Meerut",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "8009876543"
+        },
+        "skills": [
+            "C#",
+            "WPF",
+            "Entity Framework"
+        ]
+    },
+    {
+        "name": "Akash",
+        "age": 22,
+        "address": {
+            "country": "India",
+            "city": "Rajkot",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "6998765432"
+        },
+        "skills": [
+            "Python",
+            "Jupyter",
+            "Matplotlib"
+        ]
+    },
+    {
+        "name": "Neha",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Varanasi",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "5887654321"
+        },
+        "skills": [
+            "JavaScript",
+            "Ember.js",
+            "Handlebars"
+        ]
+    },
+    {
+        "name": "Manoj",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Amritsar",
+            "state": "Punjab"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "4776543210"
+        },
+        "skills": [
+            "Java",
+            "Apache Camel",
+            "ActiveMQ"
+        ]
+    },
+    {
+        "name": "Shilpa",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Vijayawada",
+            "state": "Andhra Pradesh"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "3665432109"
+        },
+        "skills": [
+            "Python",
+            "Streamlit",
+            "Plotly"
+        ]
+    },
+    {
+        "name": "Yogesh",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Faridabad",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "2554321098"
+        },
+        "skills": [
+            "C++",
+            "CMake",
+            "GTest"
+        ]
+    },
+    {
+        "name": "Shalini",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Ludhiana",
+            "state": "Punjab"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "1443210987"
+        },
+        "skills": [
+            "JavaScript",
+            "Redux",
+            "Jest"
+        ]
+    },
+    {
+        "name": "Praveen",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Guntur",
+            "state": "Andhra Pradesh"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "9332109876"
+        },
+        "skills": [
+            "Python",
+            "Airflow",
+            "Apache Spark"
+        ]
+    },
+    {
+        "name": "Anita",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Gwalior",
+            "state": "Madhya Pradesh"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "8221098765"
+        },
+        "skills": [
+            "Java",
+            "GWT",
+            "Vaadin"
+        ]
+    },
+    {
+        "name": "Santosh",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Madurai",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "7110987654"
+        },
+        "skills": [
+            "PHP",
+            "CodeIgniter",
+            "Zend"
+        ]
+    },
+    {
+        "name": "Rashmi",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Allahabad",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "6009876543"
+        },
+        "skills": [
+            "Python",
+            "Kivy",
+            "PyQt"
+        ]
+    },
+    {
+        "name": "Kiran",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Tiruchirappalli",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "4998765432"
+        },
+        "skills": [
+            "C#",
+            "Xamarin",
+            "MAUI"
+        ]
+    },
+    {
+        "name": "Latha",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Warangal",
+            "state": "Telangana"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "3887654321"
+        },
+        "skills": [
+            "JavaScript",
+            "Gatsby",
+            "Contentful"
+        ]
+    },
+    {
+        "name": "Ashish",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Jamshedpur",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "2776543210"
+        },
+        "skills": [
+            "Java",
+            "Wicket",
+            "Tapestry"
+        ]
+    },
+    {
+        "name": "Usha",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Bareilly",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "1665432109"
+        },
+        "skills": [
+            "Python",
+            "Tornado",
+            "asyncio"
+        ]
+    },
+    {
+        "name": "Dinesh",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Aligarh",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "9554321098"
+        },
+        "skills": [
+            "Go",
+            "Gin",
+            "Echo"
+        ]
+    },
+    {
+        "name": "Poonam",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Moradabad",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "8443210987"
+        },
+        "skills": [
+            "JavaScript",
+            "Alpine.js",
+            "HTMX"
+        ]
+    },
+    {
+        "name": "Sunil",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Jabalpur",
+            "state": "Madhya Pradesh"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "7332109876"
+        },
+        "skills": [
+            "Python",
+            "Twisted",
+            "Zope"
+        ]
+    },
+    {
+        "name": "Bindu",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Bhopal",
+            "state": "Madhya Pradesh"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "6221098765"
+        },
+        "skills": [
+            "C++",
+            "Boost",
+            "POCO"
+        ]
+    },
+    {
+        "name": "Ramesh",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Ghaziabad",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "5110987654"
+        },
+        "skills": [
+            "Java",
+            "Play Framework",
+            "Akka"
+        ]
+    },
+    {
+        "name": "Sarita",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Asansol",
+            "state": "West Bengal"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "4009876543"
+        },
+        "skills": [
+            "Python",
+            "Pyramid",
+            "SQLAlchemy"
+        ]
+    },
+    {
+        "name": "Bharat",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Dhanbad",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "2998765432"
+        },
+        "skills": [
+            "JavaScript",
+            "Stimulus",
+            "Turbo"
+        ]
+    },
+    {
+        "name": "Seema",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Durgapur",
+            "state": "West Bengal"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "1887654321"
+        },
+        "skills": [
+            "PHP",
+            "CakePHP",
+            "Phalcon"
+        ]
+    },
+    {
+        "name": "Arun",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Siliguri",
+            "state": "West Bengal"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "9776543210"
+        },
+        "skills": [
+            "C#",
+            "ServiceStack",
+            "NancyFx"
+        ]
+    },
+    {
+        "name": "Jyoti",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Rourkela",
+            "state": "Odisha"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "8665432109"
+        },
+        "skills": [
+            "Python",
+            "Sanic",
+            "Quart"
+        ]
+    },
+    {
+        "name": "Mukesh",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Cuttack",
+            "state": "Odisha"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "7554321098"
+        },
+        "skills": [
+            "Java",
+            "Grails",
+            "Griffon"
+        ]
+    },
+    {
+        "name": "Renu",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Bikaner",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "6443210987"
+        },
+        "skills": [
+            "JavaScript",
+            "Qwik",
+            "Solid.js"
+        ]
+    },
+    {
+        "name": "Vivek",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Ajmer",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "5332109876"
+        },
+        "skills": [
+            "Go",
+            "Fiber",
+            "Buffalo"
+        ]
+    },
+    {
+        "name": "Sushma",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Udaipur",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "4221098765"
+        },
+        "skills": [
+            "Python",
+            "Falcon",
+            "Hug"
+        ]
+    },
+    {
+        "name": "Tarun",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Kota",
+            "state": "Rajasthan"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "3110987654"
+        },
+        "skills": [
+            "C++",
+            "Wt",
+            "CppCMS"
+        ]
+    },
+    {
+        "name": "Leela",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Erode",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "2009876543"
+        },
+        "skills": [
+            "Java",
+            "Vert.x",
+            "Netty"
+        ]
+    },
+    {
+        "name": "Naresh",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Vellore",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "1098765432"
+        },
+        "skills": [
+            "JavaScript",
+            "Meteor",
+            "Blaze"
+        ]
+    },
+    {
+        "name": "Sunitha",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Tiruppur",
+            "state": "Tamil Nadu"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "9987654321"
+        },
+        "skills": [
+            "Python",
+            "Web2py",
+            "TurboGears"
+        ]
+    },
+    {
+        "name": "Ajay",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Kollam",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "8876543210"
+        },
+        "skills": [
+            "PHP",
+            "Slim",
+            "Lumen"
+        ]
+    },
+    {
+        "name": "Aruna",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Kozhikode",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "7765432109"
+        },
+        "skills": [
+            "C#",
+            "Blazor",
+            "SignalR"
+        ]
+    },
+    {
+        "name": "Naveen",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Thrissur",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "6654321098"
+        },
+        "skills": [
+            "JavaScript",
+            "Deno",
+            "Fresh"
+        ]
+    },
+    {
+        "name": "Vandana",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Thrissur",
+            "state": "Kerala"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "5543210987"
+        },
+        "skills": [
+            "Python",
+            "Pandas",
+            "NumPy"
+        ]
+    },
+    {
+        "name": "Abhishek",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Noida",
+            "state": "Uttar Pradesh"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "4432109876"
+        },
+        "skills": [
+            "React",
+            "TypeScript",
+            "GraphQL"
+        ]
+    },
+    {
+        "name": "Kritika",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Gurugram",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "3321098765"
+        },
+        "skills": [
+            "Swift",
+            "iOS Development",
+            "CoreData"
+        ]
+    },
+    {
+        "name": "Sameer",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Pune",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "2210987654"
+        },
+        "skills": [
+            "DevOps",
+            "Terraform",
+            "Ansible"
+        ]
+    },
+    {
+        "name": "Deepika",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Bengaluru",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "1109876543"
+        },
+        "skills": [
+            "Machine Learning",
+            "PyTorch",
+            "Scikit-learn"
+        ]
+    },
+    {
+        "name": "Rohit",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Srinagar",
+            "state": "Jammu and Kashmir"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "9998765432"
+        },
+        "skills": [
+            "Kotlin",
+            "Android Development",
+            "Room Database"
+        ]
+    },
+    {
+        "name": "Pallavi",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Gandhinagar",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "8887654321"
+        },
+        "skills": [
+            "Data Analytics",
+            "Power BI",
+            "SQL Server"
+        ]
+    },
+    {
+        "name": "Kartik",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Imphal",
+            "state": "Manipur"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "7776543210"
+        },
+        "skills": [
+            "Rust",
+            "WebAssembly",
+            "Actix"
+        ]
+    },
+    {
+        "name": "Shweta",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Agartala",
+            "state": "Tripura"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "6665432109"
+        },
+        "skills": [
+            "UI/UX Design",
+            "Figma",
+            "Adobe XD"
+        ]
+    },
+    {
+        "name": "Prakash",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Shillong",
+            "state": "Meghalaya"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "5554321098"
+        },
+        "skills": [
+            "Blockchain",
+            "Ethereum",
+            "Smart Contracts"
+        ]
+    },
+    {
+        "name": "Namrata",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Aizawl",
+            "state": "Mizoram"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "4443210987"
+        },
+        "skills": [
+            "Flutter",
+            "Dart",
+            "Firebase"
+        ]
+    },
+    {
+        "name": "Varun",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Kohima",
+            "state": "Nagaland"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "3332109876"
+        },
+        "skills": [
+            "Cybersecurity",
+            "Penetration Testing",
+            "Kali Linux"
+        ]
+    },
+    {
+        "name": "Anushka",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Itanagar",
+            "state": "Arunachal Pradesh"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "2221098765"
+        },
+        "skills": [
+            "AR/VR",
+            "Unity 3D",
+            "Oculus SDK"
+        ]
+    },
+    {
+        "name": "Sidharth",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Gangtok",
+            "state": "Sikkim"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "1110987654"
+        },
+        "skills": [
+            "Scala",
+            "Apache Kafka",
+            "Spark Streaming"
+        ]
+    },
+    {
+        "name": "Richa",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Port Blair",
+            "state": "Andaman and Nicobar Islands"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "9009876543"
+        },
+        "skills": [
+            "Cloud Computing",
+            "Google Cloud",
+            "Kubernetes"
+        ]
+    },
+    {
+        "name": "Mayank",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Panaji",
+            "state": "Goa"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "8998765432"
+        },
+        "skills": [
+            "Microservices",
+            "Spring Cloud",
+            "Redis"
+        ]
+    },
+    {
+        "name": "Sowmya",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Pondicherry",
+            "state": "Puducherry"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "7887654321"
+        },
+        "skills": [
+            "Big Data",
+            "Hadoop",
+            "HBase"
+        ]
+    },
+    {
+        "name": "Tushar",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Daman",
+            "state": "Dadra and Nagar Haveli and Daman and Diu"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "6776543210"
+        },
+        "skills": [
+            "Game Development",
+            "Unreal Engine",
+            "C++"
+        ]
+    },
+    {
+        "name": "Ishita",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Leh",
+            "state": "Ladakh"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "5665432109"
+        },
+        "skills": [
+            "Natural Language Processing",
+            "NLTK",
+            "Transformers"
+        ]
+    },
+    {
+        "name": "Aryan",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Silvassa",
+            "state": "Dadra and Nagar Haveli and Daman and Diu"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "4554321098"
+        },
+        "skills": [
+            "IoT",
+            "Raspberry Pi",
+            "MQTT"
+        ]
+    },
+    {
+        "name": "Tanvi",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Kavaratti",
+            "state": "Lakshadweep"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "3443210987"
+        },
+        "skills": [
+            "Quantum Computing",
+            "Qiskit",
+            "Linear Algebra"
+        ]
+    },
+    {
+        "name": "Sahil",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Solapur",
+            "state": "Maharashtra"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "2332109876"
+        },
+        "skills": [
+            "Embedded C",
+            "STM32",
+            "FreeRTOS"
+        ]
+    },
+    {
+        "name": "Preethi",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Belgaum",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "1221098765"
+        },
+        "skills": [
+            "Salesforce",
+            "Apex",
+            "Lightning Components"
+        ]
+    },
+    {
+        "name": "Harsh",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Jammu",
+            "state": "Jammu and Kashmir"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "9110987654"
+        },
+        "skills": [
+            "Backend Development",
+            "Express.js",
+            "MongoDB"
+        ]
+    },
+    {
+        "name": "Megha",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Bhilai",
+            "state": "Chhattisgarh"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "8009876543"
+        },
+        "skills": [
+            "Quality Assurance",
+            "Cypress",
+            "Jest"
+        ]
+    },
+    {
+        "name": "Rohit",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Korba",
+            "state": "Chhattisgarh"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "6998765432"
+        },
+        "skills": [
+            "Web3",
+            "DeFi",
+            "Truffle"
+        ]
+    },
+    {
+        "name": "Sanya",
+        "age": 22,
+        "address": {
+            "country": "India",
+            "city": "Bilaspur",
+            "state": "Chhattisgarh"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "5887654321"
+        },
+        "skills": [
+            "Frontend Development",
+            "Vue.js",
+            "Nuxt.js"
+        ]
+    },
+    {
+        "name": "Nitin",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Bhavnagar",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "4776543210"
+        },
+        "skills": [
+            "Site Reliability Engineering",
+            "Prometheus",
+            "Grafana"
+        ]
+    },
+    {
+        "name": "Aditi",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Jamnagar",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "3665432109"
+        },
+        "skills": [
+            "Product Management",
+            "Agile",
+            "Scrum"
+        ]
+    },
+    {
+        "name": "Vinay",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Junagadh",
+            "state": "Gujarat"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "2554321098"
+        },
+        "skills": [
+            "Database Administration",
+            "Oracle",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Kavya",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Panipat",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "1443210987"
+        },
+        "skills": [
+            "Digital Marketing",
+            "SEO",
+            "Google Analytics"
+        ]
+    },
+    {
+        "name": "Rohan",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Ambala",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "9332109876"
+        },
+        "skills": [
+            "Systems Programming",
+            "Linux Kernel",
+            "C"
+        ]
+    },
+    {
+        "name": "Shruti",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Karnal",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "8221098765"
+        },
+        "skills": [
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Keras"
+        ]
+    },
+    {
+        "name": "Akshay",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Hisar",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "7110987654"
+        },
+        "skills": [
+            "Network Security",
+            "Wireshark",
+            "pfSense"
+        ]
+    },
+    {
+        "name": "Pooja",
+        "age": 32,
+        "address": {
+            "country": "India",
+            "city": "Rohtak",
+            "state": "Haryana"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "6009876543"
+        },
+        "skills": [
+            "Business Intelligence",
+            "Tableau",
+            "QlikView"
+        ]
+    },
+    {
+        "name": "Karan",
+        "age": 23,
+        "address": {
+            "country": "India",
+            "city": "Dharamshala",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "4998765432"
+        },
+        "skills": [
+            "Computer Vision",
+            "OpenCV",
+            "YOLO"
+        ]
+    },
+    {
+        "name": "Neetu",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Mandi",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "3887654321"
+        },
+        "skills": [
+            "Technical Writing",
+            "Documentation",
+            "Markdown"
+        ]
+    },
+    {
+        "name": "Gaurav",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Kullu",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "2776543210"
+        },
+        "skills": [
+            "Mobile App Testing",
+            "Appium",
+            "Selenium"
+        ]
+    },
+    {
+        "name": "Rashika",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Solan",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "1665432109"
+        },
+        "skills": [
+            "Content Management",
+            "WordPress",
+            "Drupal"
+        ]
+    },
+    {
+        "name": "Mohit",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Hamirpur",
+            "state": "Himachal Pradesh"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "9554321098"
+        },
+        "skills": [
+            "Data Engineering",
+            "Apache Airflow",
+            "ETL"
+        ]
+    },
+    {
+        "name": "Swapna",
+        "age": 29,
+        "address": {
+            "country": "India",
+            "city": "Bokaro",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "4567890123",
+            "mobile": "8443210987"
+        },
+        "skills": [
+            "Statistical Analysis",
+            "R Programming",
+            "SPSS"
+        ]
+    },
+    {
+        "name": "Deepesh",
+        "age": 31,
+        "address": {
+            "country": "India",
+            "city": "Deoghar",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "5678901234",
+            "mobile": "7332109876"
+        },
+        "skills": [
+            "Information Security",
+            "CISSP",
+            "Ethical Hacking"
+        ]
+    },
+    {
+        "name": "Preeti",
+        "age": 25,
+        "address": {
+            "country": "India",
+            "city": "Hazaribagh",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "6789012345",
+            "mobile": "6221098765"
+        },
+        "skills": [
+            "E-commerce Development",
+            "Shopify",
+            "WooCommerce"
+        ]
+    },
+    {
+        "name": "Abhijeet",
+        "age": 27,
+        "address": {
+            "country": "India",
+            "city": "Giridih",
+            "state": "Jharkhand"
+        },
+        "phone": {
+            "telephone": "7890123456",
+            "mobile": "5110987654"
+        },
+        "skills": [
+            "Automation Testing",
+            "Robot Framework",
+            "TestNG"
+        ]
+    },
+    {
+        "name": "Nandini",
+        "age": 28,
+        "address": {
+            "country": "India",
+            "city": "Tumkur",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "8901234567",
+            "mobile": "4009876543"
+        },
+        "skills": [
+            "Progressive Web Apps",
+            "Service Workers",
+            "IndexedDB"
+        ]
+    },
+    {
+        "name": "Siddhartha",
+        "age": 24,
+        "address": {
+            "country": "India",
+            "city": "Davangere",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "9012345678",
+            "mobile": "2998765432"
+        },
+        "skills": [
+            "API Development",
+            "REST",
+            "GraphQL"
+        ]
+    },
+    {
+        "name": "Divya",
+        "age": 26,
+        "address": {
+            "country": "India",
+            "city": "Bellary",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "0123456789",
+            "mobile": "1887654321"
+        },
+        "skills": [
+            "CRM Development",
+            "Dynamics 365",
+            "Power Platform"
+        ]
+    },
+    {
+        "name": "Pranav",
+        "age": 30,
+        "address": {
+            "country": "India",
+            "city": "Bijapur",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "1234567890",
+            "mobile": "9776543210"
+        },
+        "skills": [
+            "Container Orchestration",
+            "Docker Swarm",
+            "Nomad"
+        ]
+    },
+    {
+        "name": "Riya",
+        "age": 22,
+        "address": {
+            "country": "India",
+            "city": "Gulbarga",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "2345678901",
+            "mobile": "8665432109"
+        },
+        "skills": [
+            "Social Media Management",
+            "Hootsuite",
+            "Buffer"
+        ]
+    },
+    {
+        "name": "Vikash",
+        "age": 33,
+        "address": {
+            "country": "India",
+            "city": "Raichur",
+            "state": "Karnataka"
+        },
+        "phone": {
+            "telephone": "3456789012",
+            "mobile": "7554321098"
+        },
+        "skills": [
+            "Enterprise Architecture",
+            "TOGAF",
+            "ArchiMate"
+        ]
+    }
+]
